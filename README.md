@@ -1,5 +1,9 @@
 # Final-Project-Tableau
 
+## Introduction
+The goal was to assist real estate investors in making informed decisions when selecting rental properties in New York City. An AirBnB dataset spanning from 2008 to 2015, containing rental price information for various property types across five NYC districts, was selected. To enhance the analysis, an additional dataset containing NYC zip code-district data and average property prices for housing was incorporated for added insights.
+
+
 ## Project/Goals
 
 ### Goal (task oriented)
@@ -21,7 +25,7 @@ Show basic knowledge in Tableau by presenting different data visualizations  rel
 ### 9. Creating a presentation using visuals from Tableau uploading on my GitHub repository,
 ### 10. Filling out README.md file
 
-## Results
+## Methods & Results
 
 I chose Option 2 with AirBnB dataset. 
 
@@ -45,3 +49,10 @@ Non-expertise in real estate data analysis
 
 ## Future Goals
 Do more replications of visualizations done by Tableau experts 
+
+## References
+
+Main AirBnB dataset spanning from 2008 to 2015 for NYC : "airbnb.xlsx"
+Supporting dataset zipcodes and average real estate property price per district "NYC_ZIPCODES_COUNTIES.xlsx"
+All visualizations, including Dashboards and Story are in "TableauPresentationFileOption2AirBnB_ManvelyanGaregin.twbx" Tableau file
+The presentation of the project is in "TableauPresentationFileOption2AirBnB_ManvelyanGaregin.pdf" pdf file.
